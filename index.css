@@ -1,0 +1,112 @@
+.footer {
+    line-height: 1.0;
+    width: 50%;
+    font-size: 80%;
+}
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+.width_50 {
+    width: 50%;
+}
+
+.width_70 {
+    width: 70%;
+}
+
+.width_85 {
+    width: 85%;
+}
+
+.width_90 {
+    width: 90%;
+}
+
+.header {
+    line-height: 250%;
+    font-size: 200%;
+    width: 90%;
+    padding: 10px;
+    background-clip: content-box, padding-box;
+}
+
+.content {
+    padding: 15px;
+}
+
+.post {
+    padding: 30px;
+    outline: 2px solid white;
+    outline-offset: -10px;
+}
+
+.post_title {
+    font-weight: bold;
+    font-size: 140%;
+    padding: 10px;
+    border-bottom: 2px solid gray;
+}
+
+.post_body {
+    padding: 5px;
+    font-size: 110%;
+}
+
+.paddedchoicebox {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.interactionbox {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 90%;
+}
+
+.maininput {
+    width: 100%;
+}
+
+.roundedinput {
+    border-radius: 20px;
+    height: 35px;
+}
+
+.input_section {
+    padding: 6px;
+}
+
+.search_div {
+    padding-top: 15px;
+}
+
+.selectfield {
+    border: 3px solid rgb(136, 136, 136);
+}
+
+.microarea_result {
+    font-size: 110%;
+    padding: 20px;
+    border-top: 1px solid gray;
+}
+
+td {
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.progress_bar_div {
+    width: 100%;
+    background-color: grey;
+}
+
+.progress_bar {
+    width: 1%;
+    height: 60px;
+    background-color: lightgreen;
+    text-align: center;
+    line-height: 60px;
+}
